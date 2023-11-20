@@ -1,0 +1,11 @@
+name: Revert Party Member Rando
+originalAuthor: Shananas
+assets:
+- method: binarc
+  name: 03system.bin
+  source:
+  - method: copy
+    name: memt
+    source:
+    - name: memt_0.list
+    type: list
