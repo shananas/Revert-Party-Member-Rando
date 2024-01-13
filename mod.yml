@@ -1,5 +1,6 @@
 name: Revert Party Member Rando
 originalAuthor: Shananas
+game: kh2
 assets:
 - method: binarc
   name: 03system.bin
